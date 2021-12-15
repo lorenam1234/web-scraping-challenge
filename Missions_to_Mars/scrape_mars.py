@@ -92,3 +92,7 @@ def scrape():
     
     combined_url
 
+    return
+
+
+
